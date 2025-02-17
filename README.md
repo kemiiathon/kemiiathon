@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ricardo Souza
-- 👀 I’m interested in ...Python e Java
-- 🌱 I’m currently learning ..Python and Java
+- 👀 I’m interested in ...Python e JavaScript
+- 🌱 I’m currently learning ..Python and JavaScript
 - 💞️ I’m looking to collaborate on ...backend Projects
 - 📫 How to reach me https://www.linkedin.com/in/ricardo-souza-59a0831bb/
 
